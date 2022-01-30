@@ -36,7 +36,7 @@ THEN I find that the app uses Redux instead of the Context API
 * Run npm install on the root folder as well as inside client and server folders to download required dependency packages.
 * Run npm run develop to execute the application.
 
-## Deployment - https://secure-brook-12382.herokuapp.com/
+## URL of deployed application - https://secure-brook-12382.herokuapp.com/
 
 ## Screenshots
 ![shopshop1](https://user-images.githubusercontent.com/88642738/151718990-000cb733-5b3b-4de5-b3aa-dc301370cdc6.png)
